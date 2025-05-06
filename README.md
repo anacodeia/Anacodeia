@@ -4,7 +4,9 @@
 **Conhecimentos:**
 
 **💻 Python**
+
 **🔧 Engenharia de Software**
+
 **💾 Banco de Dados**
 
 **🚀 Publicarei aqui os projetos que venho desenvolvendo durante minha jornada acadêmica, como forma de compartilhar meu aprendizado e evolução.**
