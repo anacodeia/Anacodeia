@@ -11,7 +11,7 @@
 
 **🚀 Publicarei aqui os projetos que venho desenvolvendo durante minha jornada acadêmica, como forma de compartilhar meu aprendizado e evolução.**
 
-[LinkedIn](https://www.linkedin.com/in/ana-cecília-sirin
+[LinkedIn](https://www.linkedin.com/in/ana-cecília-sirino
 
 
 
