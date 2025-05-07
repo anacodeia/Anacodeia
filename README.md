@@ -13,7 +13,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/ana-cecília-sirino)
 
-[Calculadora](https://anacodeia.github.io/portf-lio-/)
+[Calculadora]( https://anacodeia.github.io/Calculadora/)
 
 [Portfolio]( https://anacodeia.github.io/Portfolio/)
 
