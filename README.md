@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá!
 **✨ Sou estudante do curso de Análise e Desenvolvimento de Sistemas no CEUB, atualmente cursando o primeiro semestre. Tenho interesse por tecnologia e inovação, e estou buscando aplicar e expandir meus conhecimentos no decorrer do curso.**
 
 **Conhecimentos:**
