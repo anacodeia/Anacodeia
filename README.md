@@ -11,7 +11,7 @@
 
 **🚀 Publicarei aqui os projetos que venho desenvolvendo durante minha jornada acadêmica, como forma de compartilhar meu aprendizado e evolução.**
 
-[LinkedIn](https://www.linkedin.com/in/ana-cecília-sirino)
+[LinkedIn](https://www.linkedin.com/in/ana-cec%C3%ADlia-sirino?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 [Calculadora]( https://anacodeia.github.io/Calculadora/)
 
