@@ -26,7 +26,9 @@ Design:Princípios de UX/UI e Prototipagem.
 ### 📫 Como me encontrar
 
 [LinkedIn] (www.linkedin.com/in/ana-cecília-sirino)
+
 [E-mail] [anaceciliabatista62@gmail.com]
+
 [Portfólio] ()
 <!--
 **anacodeia/Anacodeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
